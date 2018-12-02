@@ -31,3 +31,21 @@ systemctl start jenkins
 8)Check the status of jenkins
 
 systemctl status jenkins
+
+
+9)Try to check whether you can access jenkins by doing the following
+
+http://Hostname:8080
+
+
+10)Go to the below path to get the initial admin password
+
+/var/lib/jenkins/secrets/initialAdminPassword
+
+11)You will get the page called "Customize Jenkins"
+
+Click on install Suggested Plugins
+
+12)Once done, create the first admin user,click on Save and Continue
+
+
