@@ -32,6 +32,8 @@ yum install jenkins  java-1.8.0-openjdk-devel git -y
 
 systemctl enable jenkins
 
+![jenkins6](https://user-images.githubusercontent.com/20787443/50155717-bb41ad80-02c4-11e9-91cc-883b5a247b1b.png)
+
 7)Start Jenkins
 
 systemctl start jenkins
