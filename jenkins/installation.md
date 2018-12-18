@@ -44,6 +44,7 @@ systemctl start jenkins
 
 systemctl status jenkins
 
+![jenkins8](https://user-images.githubusercontent.com/20787443/50155729-c4cb1580-02c4-11e9-8c79-7f49f47dfbc8.png)
 
 9)Try to check whether you can access jenkins by doing the following
 
