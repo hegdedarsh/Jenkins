@@ -50,6 +50,8 @@ systemctl status jenkins
 
 http://Hostname:8080
 
+![jenkins9](https://user-images.githubusercontent.com/20787443/50155734-ca286000-02c4-11e9-9861-f28573f1e838.png)
+
 
 10)Go to the below path to get the initial admin password
 
