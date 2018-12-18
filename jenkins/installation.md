@@ -14,6 +14,7 @@
 
 wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat/jenkins.repo
 
+![jenkins3](https://user-images.githubusercontent.com/20787443/50155698-ac5afb00-02c4-11e9-9b84-89630f1cd74e.png)
 
 4)Import the jenkins key
 
