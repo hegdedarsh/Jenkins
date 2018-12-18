@@ -57,6 +57,9 @@ http://Hostname:8080
 
 /var/lib/jenkins/secrets/initialAdminPassword
 
+
+![jenkins10](https://user-images.githubusercontent.com/20787443/50155743-ceed1400-02c4-11e9-9c6d-35261740bb64.png)
+
 11)You will get the page called "Customize Jenkins"
 
 Click on install Suggested Plugins
