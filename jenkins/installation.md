@@ -26,6 +26,7 @@ rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
 
 yum install jenkins  java-1.8.0-openjdk-devel git -y
 
+![jenkins5](https://user-images.githubusercontent.com/20787443/50155712-b67cf980-02c4-11e9-9445-bd1fceffac9a.png)
 
 6)Enable jenkins to start on bootup
 
