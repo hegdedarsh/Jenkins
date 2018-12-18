@@ -20,6 +20,8 @@ wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat/jenkins.repo
 
 rpm --import https://pkg.jenkins.io/redhat/jenkins.io.key
 
+![jenkins4](https://user-images.githubusercontent.com/20787443/50155702-b11faf00-02c4-11e9-8de0-e83a0ddce155.png)
+
 5)Install Jenkins along with git and openjdk
 
 yum install jenkins  java-1.8.0-openjdk-devel git -y
