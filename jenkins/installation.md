@@ -69,4 +69,4 @@ Click on install Suggested Plugins
 
 12)Once done, create the first admin user,click on Save and Continue
 
-
+![jenkins13](https://user-images.githubusercontent.com/20787443/50155773-e0ceb700-02c4-11e9-97e6-1f80a4f7b49a.png)
