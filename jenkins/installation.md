@@ -64,6 +64,9 @@ http://Hostname:8080
 
 Click on install Suggested Plugins
 
+
+![jenkins11](https://user-images.githubusercontent.com/20787443/50155755-d4e2f500-02c4-11e9-8386-73361fc462e3.png)
+
 12)Once done, create the first admin user,click on Save and Continue
 
 
