@@ -1,6 +1,8 @@
 1)Check whether wget is installed
 
   which wget
+  
+  ![jenkins1](https://user-images.githubusercontent.com/20787443/50155536-38205780-02c4-11e9-945c-a883de09e6bc.png)
 
 2)Switch to root user
 
