@@ -38,6 +38,8 @@ systemctl enable jenkins
 
 systemctl start jenkins
 
+![jenkins7](https://user-images.githubusercontent.com/20787443/50155724-c0066180-02c4-11e9-996f-fcbc22bc7a6e.png)
+
 8)Check the status of jenkins
 
 systemctl status jenkins
