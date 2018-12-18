@@ -8,6 +8,8 @@
 
    sudo su -
    
+   ![jenkins2](https://user-images.githubusercontent.com/20787443/50155691-a6fdb080-02c4-11e9-9c76-f3460d5b2076.png)
+   
 3)wget the jenkins repo
 
 wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat/jenkins.repo
