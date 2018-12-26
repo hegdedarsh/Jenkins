@@ -22,3 +22,6 @@ builds or to keep no more than a specified number of builds.
 The first section is SCM pr Source Control Management, which defines the source of the code to build the job.Currently we could see that it has SVN and Github plugins installed as part of the Jenkins Default Plugins.For this job, we are selecting None.
 
 ![create_new_job_5png](https://user-images.githubusercontent.com/20787443/50429117-3fb0b380-08f7-11e9-81a5-e13a9e59c6cb.PNG)
+
+
+![create_new_job_6](https://user-images.githubusercontent.com/20787443/50429218-09bfff00-08f8-11e9-913a-0b7155578f93.PNG)
