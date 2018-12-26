@@ -31,3 +31,7 @@ For this job, we are going to trigger the build manually, hence go to Build sect
 Currently we are going to write a basic echo statement.
 
 ![create_new_job_8](https://user-images.githubusercontent.com/20787443/50429683-ddf24880-08fa-11e9-9264-97e9f1a7cb86.PNG)
+
+
+![create_new_job_9](https://user-images.githubusercontent.com/20787443/50429928-ebf49900-08fb-11e9-8d56-a26d12c08cf3.PNG)
+
