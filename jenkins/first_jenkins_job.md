@@ -39,7 +39,7 @@ Once this is done, click on Save to create the first Jenkins job.
 You can see the first job getting created.
 ![create_new_job_10](https://user-images.githubusercontent.com/20787443/50429932-eeef8980-08fb-11e9-807b-c08d828f6b3a.PNG)
 
-Click on the job name test.
+Click on the job name test.Click on Build now to run the job.You should see the blue ball which means its a success. If you see red ball it means failure. To confirm it you can click on #1 and see the logs.Sometimes even though the job is succeess, certain steps will fail so we need to be careful on this.
 ![create_new_job_11](https://user-images.githubusercontent.com/20787443/50430353-5c041e80-08fe-11e9-8349-ebf20e01af85.PNG)
 
 Click on Build now to run the job.
