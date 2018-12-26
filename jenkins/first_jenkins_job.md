@@ -39,7 +39,7 @@ Once this is done, click on Save to create the first Jenkins job.
 You can see the first job getting created.
 ![create_new_job_10](https://user-images.githubusercontent.com/20787443/50429932-eeef8980-08fb-11e9-807b-c08d828f6b3a.PNG)
 
-
+Click on the job name test.
 ![create_new_job_11](https://user-images.githubusercontent.com/20787443/50430353-5c041e80-08fe-11e9-8349-ebf20e01af85.PNG)
 
 ![create_new_job_12](https://user-images.githubusercontent.com/20787443/50430354-5c041e80-08fe-11e9-9419-6c1787943c87.PNG)
