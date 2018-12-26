@@ -26,3 +26,5 @@ The first section is SCM pr Source Control Management, which defines the source 
 For this job, we are going to trigger the build manually, hence go to Build section and click on Execute Shell, you can also execute Windows Batch Command if you are on Windows. But I am going to select as I am on Linux
 
 ![create_new_job_6](https://user-images.githubusercontent.com/20787443/50429218-09bfff00-08f8-11e9-913a-0b7155578f93.PNG)
+
+![create_new_job_8](https://user-images.githubusercontent.com/20787443/50429683-ddf24880-08fa-11e9-9264-97e9f1a7cb86.PNG)
