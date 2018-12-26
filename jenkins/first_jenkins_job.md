@@ -18,3 +18,7 @@ Now click on discard old builds.Build jobs consume a lot of disk space and memor
 builds or to keep no more than a specified number of builds.
 
 ![create_new_job_4](https://user-images.githubusercontent.com/20787443/50428745-e3e52b00-08f4-11e9-9dee-d10b13cc8d88.PNG)
+
+The first section is SCM pr Source Control Management, which defines the source of the code to build the job.Currently we could see that it has SVN and Github plugins installed as part of the Jenkins Default Plugins.For this job, we are selecting None.
+
+![create_new_job_5png](https://user-images.githubusercontent.com/20787443/50429117-3fb0b380-08f7-11e9-81a5-e13a9e59c6cb.PNG)
