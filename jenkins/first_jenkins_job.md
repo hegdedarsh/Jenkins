@@ -42,11 +42,11 @@ You can see the first job getting created.
 Click on the job name test.Click on Build now to run the job.You should see the blue ball which means its a success. If you see red ball it means failure. To confirm it you can click on #1 and see the logs.Sometimes even though the job is succeess, certain steps will fail so we need to be careful on this.
 ![create_new_job_11](https://user-images.githubusercontent.com/20787443/50430353-5c041e80-08fe-11e9-8349-ebf20e01af85.PNG)
 
-Click on Build now to run the job.
+
 ![create_new_job_12](https://user-images.githubusercontent.com/20787443/50430354-5c041e80-08fe-11e9-9419-6c1787943c87.PNG)
-
-
 
 ![create_new_job_13](https://user-images.githubusercontent.com/20787443/50430355-5c9cb500-08fe-11e9-91fb-9d9292e62a4c.PNG)
 
 ![create_new_job_14](https://user-images.githubusercontent.com/20787443/50430356-5c9cb500-08fe-11e9-9df3-c7afeb77a51d.PNG)
+
+Done
