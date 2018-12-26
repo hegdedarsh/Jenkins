@@ -23,3 +23,6 @@ $(dirname $(dirname $(readlink -f $(which javac))))
 
 To setup Jenkins global configuration, click on Manage Jenkins>> Global Tools Configuration
 ![image](https://user-images.githubusercontent.com/20787443/50434298-d4c3a480-0917-11e9-9832-ca336b1425de.png) 
+
+
+![jdk_1png](https://user-images.githubusercontent.com/20787443/50437078-5ff66780-0923-11e9-880e-dae56daeea10.PNG)
