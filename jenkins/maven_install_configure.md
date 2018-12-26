@@ -18,6 +18,8 @@ To find where is your java present , run the below command.
 $(dirname $(dirname $(readlink -f $(which javac))))
 
 
+When you check the maven version,you will see that the path is already defined, hence use it.
+
 ![maven_java_3](https://user-images.githubusercontent.com/20787443/50434155-5961f300-0917-11e9-8540-242fa4fb1b2a.PNG)
 
 
