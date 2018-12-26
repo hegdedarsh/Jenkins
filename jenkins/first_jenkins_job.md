@@ -9,3 +9,7 @@ We are now at a landing page, currently there are no jobs created.
 Now click on create new job and write a new job name.In my case its test. And now select a freestyle project.
 
 ![image](https://user-images.githubusercontent.com/20787443/50428565-acc24a00-08f3-11e9-8daa-a893bb14d75a.png)
+
+Provide a description for the job.
+
+![create_new_job_3](https://user-images.githubusercontent.com/20787443/50428700-a2ed1680-08f4-11e9-903a-76b69460047f.PNG)
