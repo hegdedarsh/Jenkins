@@ -29,7 +29,7 @@ To setup Jenkins global configuration, click on Manage Jenkins>> Global Tools Co
 
 ![jdk_1png](https://user-images.githubusercontent.com/20787443/50437078-5ff66780-0923-11e9-880e-dae56daeea10.PNG)
 
-
+Based on the maven version command we executed above, we can see the MAVEN_HOME path, use it.
 
 ![maven_path_1](https://user-images.githubusercontent.com/20787443/50437079-5ff66780-0923-11e9-99fb-4b5357f12f71.PNG)
 
@@ -40,3 +40,7 @@ To setup Jenkins global configuration, click on Manage Jenkins>> Global Tools Co
  
  
 ![git_1_path](https://user-images.githubusercontent.com/20787443/50437125-8916f800-0923-11e9-8862-d27c9bc14f6d.PNG)
+
+Once this is done, click save.
+
+
