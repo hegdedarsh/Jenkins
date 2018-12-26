@@ -13,3 +13,8 @@ Now click on create new job and write a new job name.In my case its test. And no
 Provide a description for the job.
 
 ![create_new_job_3](https://user-images.githubusercontent.com/20787443/50428700-a2ed1680-08f4-11e9-903a-76b69460047f.PNG)
+
+Now click on discard old builds.Build jobs consume a lot of disk space and memory especially if you are storing artifacts.This option will help you in limiting the the number of builds you record in the build history.You can either tell Jenkins to only keep recent
+builds or to keep no more than a specified number of builds.
+
+![create_new_job_4](https://user-images.githubusercontent.com/20787443/50428745-e3e52b00-08f4-11e9-9dee-d10b13cc8d88.PNG)
