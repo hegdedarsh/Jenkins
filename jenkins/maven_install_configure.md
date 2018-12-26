@@ -26,3 +26,6 @@ To setup Jenkins global configuration, click on Manage Jenkins>> Global Tools Co
 
 
 ![jdk_1png](https://user-images.githubusercontent.com/20787443/50437078-5ff66780-0923-11e9-880e-dae56daeea10.PNG)
+
+
+![maven_path_1](https://user-images.githubusercontent.com/20787443/50437079-5ff66780-0923-11e9-99fb-4b5357f12f71.PNG)
