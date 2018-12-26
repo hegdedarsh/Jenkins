@@ -11,3 +11,13 @@ mvn -version
 
 ![maven_version_2](https://user-images.githubusercontent.com/20787443/50431080-10a03f00-0903-11e9-91bb-300ff68fb41a.PNG)
 
+Set Java classpath .
+
+To find where is your java present , run the below command.
+
+$(dirname $(dirname $(readlink -f $(which javac))))
+
+
+
+
+
