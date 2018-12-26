@@ -35,3 +35,5 @@ Currently we are going to write a basic echo statement.
 
 ![create_new_job_9](https://user-images.githubusercontent.com/20787443/50429928-ebf49900-08fb-11e9-8d56-a26d12c08cf3.PNG)
 
+
+![create_new_job_10](https://user-images.githubusercontent.com/20787443/50429932-eeef8980-08fb-11e9-807b-c08d828f6b3a.PNG)
