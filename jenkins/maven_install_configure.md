@@ -44,3 +44,6 @@ Based on the maven version command we executed above, we can see the MAVEN_HOME 
 Once this is done, click save.
 
 
+![image_1](https://user-images.githubusercontent.com/20787443/50461800-f9715800-09bb-11e9-8400-770c9e5602cb.PNG)
+
+
