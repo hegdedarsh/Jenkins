@@ -43,12 +43,38 @@ Based on the maven version command we executed above, we can see the MAVEN_HOME 
 
 Once this is done, click save.
 
+Create a new job and name it maven project
+
+
+
+
+
+![image_test](https://user-images.githubusercontent.com/20787443/50461902-b5cb1e00-09bc-11e9-8e46-629ac914e3ce.PNG)
+
+
 Create new job and name it Maven-Project.Make sure you select Git and provide the url you need to package which should contain your artifacts and pom.xml file.
+
+
 ![image_1](https://user-images.githubusercontent.com/20787443/50461800-f9715800-09bb-11e9-8400-770c9e5602cb.PNG)
+
+
+
+
+
 
 In the build tab, click on invoke top-level maven targets, and provide the goals 
 
+
+
+
+
 ![image_2](https://user-images.githubusercontent.com/20787443/50461802-fb3b1b80-09bb-11e9-97b5-a17f9c51c4e7.PNG)
 
+
+
 Once this is done, save it and run the job and check for the output.It should be success.
+
+
+
+
 ![image_3](https://user-images.githubusercontent.com/20787443/50461803-fc6c4880-09bb-11e9-9aca-813836fe7d7f.PNG)
