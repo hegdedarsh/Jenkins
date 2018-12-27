@@ -50,4 +50,5 @@ In the build tab, click on invoke top-level maven targets, and provide the goals
 
 ![image_2](https://user-images.githubusercontent.com/20787443/50461802-fb3b1b80-09bb-11e9-97b5-a17f9c51c4e7.PNG)
 
+Once this is done, save it and run the job and check for the output.It should be success.
 ![image_3](https://user-images.githubusercontent.com/20787443/50461803-fc6c4880-09bb-11e9-9aca-813836fe7d7f.PNG)
